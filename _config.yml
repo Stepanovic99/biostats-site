@@ -1,0 +1,9 @@
+title: Biostats Site
+description: Scientific articles and personal insights on biostatistics
+baseurl: ""
+url: "https://Stepanovic99.github.io"
+theme: minima
+markdown: kramdown
+collections:
+  articles:
+    output: true
